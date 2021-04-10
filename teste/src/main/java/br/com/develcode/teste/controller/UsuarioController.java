@@ -22,6 +22,8 @@ import br.com.develcode.teste.entidades.Usuario;
 import br.com.develcode.teste.repository.UsuarioRepository;
 import br.com.develcode.teste.set.UsuarioSET;
 
+// Não Coloquei mais comentários não sei o padrão usado.
+
 @RestController
 @RequestMapping("/teste")
 public class UsuarioController {
